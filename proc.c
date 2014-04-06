@@ -6,6 +6,7 @@
 #include "x86.h"
 #include "proc.h"
 #include "spinlock.h"
+#include "signal.h"
 
 struct {
   struct spinlock lock;
