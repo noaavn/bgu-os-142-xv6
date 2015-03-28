@@ -1,0 +1,1 @@
+xv6 is an operating system that provides the basic interfaces introduced by Ken Thompson and Dennis Ritchie’s Unix operating system, as well as mimicking Unix’s internal design.
